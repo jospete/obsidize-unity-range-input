@@ -31,7 +31,7 @@ public class MinMaxRangeTester : ScriptableObject
 	[MinMaxInt(-50, 100)]
 	public MinMaxRangeInt testAttrIntRange;
 
-	// Will generate a debug error, since MinMax*** attributes are 
+	// Will generate a warning log, since MinMax*** attributes are 
 	// only valid on MinMax constructs
 	/*	[MinMaxInt(-50, 100)]
 		public float invalidAttrTest;*/
