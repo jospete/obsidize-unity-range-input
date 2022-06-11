@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: TestRanges
   m_EditorClassIdentifier: 
   testFloatRange:
-    _min: 3.09
-    _max: 8.81
+    _min: 3.18
+    _max: 9.17
   testIntRange:
     _min: -55
-    _max: -177
+    _max: -181
   testAttrFloatRange:
-    _min: -0.36
-    _max: 0.8779317
+    _min: -1
+    _max: 0.24000001
   testAttrIntRange:
-    _min: -30
-    _max: 6
+    _min: -50
+    _max: -14

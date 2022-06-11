@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Obsidize.RangeInput.EditorTools
+namespace Obsidize.RangeInput.Editor
 {
 	public class MinMaxDrawerBase<FieldType, ValueType> : PropertyDrawer
 	{
