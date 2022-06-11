@@ -1,13 +1,13 @@
 {
 	"name": "com.obsidize.range-input",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"displayName": "Min-Max Range Input",
 	"description": "Utilities for min/max range inputs",
 	"unity": "2019.4",
 	"type": "library",
-	"documentationUrl": "https://github.com/jospete/obsidize-unity-range-input/blob/master/README.md",
-	"changelogUrl": "https://github.com/jospete/obsidize-unity-range-input/blob/master/CHANGELOG.md",
-	"licensesUrl": "https://github.com/jospete/obsidize-unity-range-input/blob/master/LICENSE.md",
+	"documentationUrl": "https://github.com/jospete/obsidize-unity-range-input/blob/main/README.md",
+	"changelogUrl": "https://github.com/jospete/obsidize-unity-range-input/blob/main/CHANGELOG.md",
+	"licensesUrl": "https://github.com/jospete/obsidize-unity-range-input/blob/main/LICENSE.md",
 	"license": "MIT",
 	"author": {
 		"name": "Obsidize Tools",

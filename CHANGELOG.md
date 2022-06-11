@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 1.0.2
+
+- Fix documentation URLs
+- Fix package version desync
+
 ## 1.0.1
 
 - Rename namespace `Obsidize.RangeInput.EditorTools` ->
